@@ -53,18 +53,18 @@
 4. 动态A/B分区：
 	>	字面意思
 5. V A/B分区
-	>	**不可刷入不确定的DSU！！！
-	>	Virtual(虚拟) A/B分区，简称VA/B分区，结合了纯A和动态A/B的所有缺点于一身**
-	>	VA/B原理如下：
-	>		1.逻辑分区(system、vendor)虚拟出了一个B槽，但是**并未实体挂载**，而是虚拟了一个镜像位出来
+	>	**不可刷入不确定的DSU！！！  
+	>	Virtual(虚拟) A/B分区，简称VA/B分区，结合了纯A和动态A/B的所有缺点于一身**  
+	>	VA/B原理如下：  
+	>		1.逻辑分区(system、vendor)虚拟出了一个B槽，但是**并未实体挂载**，而是虚拟了一个镜像位出来  
 	>		2.当用户在进行OTA更新时，会将新下载的逻辑分区变成虚拟分区B槽。待重启后，将B槽的名称重命名为A槽，并将A槽删除
 	>		
 	>	VA/B分区和A/B分区都没有recovery，那如何进入呢：
-	>		答案就在VA/B分区和A/B分区的Boot.img里
-	>		直接使用`fastboot boot recovery.img`即可进入recovery，再在recovery里刷入TWRP即可替换原生recovery
-	>		绝对不可直接刷入`fastboot flash boot recovery.img`
-	>		绝对不可直接刷入`fastboot flash boot recovery.img`
-	>		绝对不可直接刷入`fastboot flash boot recovery.img`
+	>		答案就在VA/B分区和A/B分区的Boot.img里  
+	>		直接使用`fastboot boot recovery.img`即可进入recovery，再在recovery里刷入TWRP即可替换原生recovery  
+	>		绝对不可直接刷入`fastboot flash boot recovery.img`  
+	>		绝对不可直接刷入`fastboot flash boot recovery.img`  
+	>		绝对不可直接刷入`fastboot flash boot recovery.img`  
 	>		
 	![vab.jpg](vab.jpg "VAB")
 
