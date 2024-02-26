@@ -202,19 +202,19 @@
 16. 打包好后，可以在`/sdcard/DNA/NA_Your_ProJect_Name/out`目录下找到你生成打包好的`system.img`
 >执行下一步之前，请先确认你有系统卡刷包，并且拥有原版`vbmeta.img`
 >若没有，则跟着教程操作提取一份`vbmeta.img`
-15. 打开`DNA`软件，选择提取镜像文件，搜索并提取`vbmta.img`分区
+17. 打开`DNA`软件，选择提取镜像文件，搜索并提取`vbmta.img`分区
 	>	提取完`vbmeta.img`分区后，你可以在`/sdcard/DNA/image`里找到`vbmeta.img`  
 	>	并将之前转换好的`System.img`和刚刚提取的`vbmeta.img`一并传入电脑，等待下一步的操作
-16. 进入电脑`adb`中，输入:
+18. 进入电脑`adb`中，输入:
 	>		adb reboot bootloader
-17. 进入`bootloader`后，输入这串命令，并将你提取的`vbmeta.img`拖入后面  
+19. 进入`bootloader`后，输入这串命令，并将你提取的`vbmeta.img`拖入后面  
 **这一步的作用是，禁用VAB验证，防止后续操作造成系统不开机**
 	>		fastboot --disable-verity --disable-verification flash vbmeta 
-18. 输入这串命令，使手机进入`fastbootd`模式：
+20. 输入这串命令，使手机进入`fastbootd`模式：
 	>		fastboot reboot fastboot
-19. 进入`fastbootd`模式后，输入这串命令来刷写`System.img`  
+21. 进入`fastbootd`模式后，输入这串命令来刷写`System.img`  
 并将你`提取并修改打包过的`   `system.img`拖入后面
 	>		fastboot flash system 
-20. 完成以上操作后，输入这串命令重启到主系统：
+22. 完成以上操作后，输入这串命令重启到主系统：
 	>		fastboot reboot
-21. 尝试用mt管理器在根目录`“/”`下创建一个文件，并开始体验根目录可读写的体验吧！
+23. 尝试用mt管理器在根目录`“/”`下创建一个文件，并开始体验根目录可读写的体验吧！
