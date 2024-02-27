@@ -145,7 +145,7 @@
 	- 支持三端操作(Android,Linux,Windows)
 	- 老牌的安卓镜像重构软件，支持的功能更完善
  	- [tao1996大佬酷安主页](http://www.coolapk.com/u/1128537)
-	- [Errors大佬酷安主页](http://www.coolapk.com/u/1128537)
+	- [Errors大佬酷安主页](http://www.coolapk.com/u/1403335)
 	- [D.N.A项目GitLab直达链接](https://gitee.com/sharpeter/DNA)
 	- [D.N.A Android项目酷安直达链接](https://www.coolapk.com/feed/38568666?shareKey=NjUwNWJjYTQ2MTFjNjVkZDVjOWE~&shareUid=19405669&shareFrom=com.coolapk.market_14.0.2)
 3. Mio Kitchen:
