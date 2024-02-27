@@ -141,9 +141,13 @@
 # 安卓刷机实战部分
 ## 软件介绍(~~其实两个除了作者之外就没差~~)
 1. DNA Android：
+	- 是由酷安`Errors`和`tao1996`大佬联合制作
 	- 支持三端操作(Android,Linux,Windows)
 	- 老牌的安卓镜像重构软件，支持的功能更完善
-	- [作者项目直达链接](https://gitee.com/sharpeter/DNA)
+ 	- [tao1996大佬酷安主页](http://www.coolapk.com/u/1128537)
+	- [Errors大佬酷安主页](http://www.coolapk.com/u/1128537)
+	- [D.N.A项目GitLab直达链接](https://gitee.com/sharpeter/DNA)
+	- [D.N.A Android项目酷安直达链接](https://www.coolapk.com/feed/38568666?shareKey=NjUwNWJjYTQ2MTFjNjVkZDVjOWE~&shareUid=19405669&shareFrom=com.coolapk.market_14.0.2)
 3. Mio Kitchen:
 	- 是由`寒风居士`创作的软件
 	- 支持四端操作(Android,Linux,Windows,macOS)
@@ -153,7 +157,7 @@
 	- [项目直达链接](https://mt2.cn)
 	- 老牌的Android文件管理软件，听过这个文件管理器的都上了年纪了
 	- 横向支持的安卓系统跨度大
-	 - 内置很多非常实用的功能，包括但不限于
+	- 内置很多非常实用的功能，包括但不限于
 >apk逆向、双行文件比对、一键解压缩、代码支持完善、内置终端、可直接运行sh文件、支持安装卸载提取apk、支持安装apkx
 
 ## 净化OEM包
