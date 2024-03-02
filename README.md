@@ -55,7 +55,7 @@
 >		与其这么麻烦地擦写，还不如直接mkdir一个文件夹(30GB(当然这是我瞎写的))这样就可以在有限的空间内随意排版，动态更新信息，而不用一直在外部分区表中动态更新这些分区，岂不美哉？
 >		故，super分区称为：动态分区
 
-![super分区.jpeg](super分区.png "vab")
+![super分区.jpeg](super分区.jpeg "vab")
 	
 ## /etc/fstab文件的作用
 >	fstab用于提前挂载磁盘，且指定了磁盘的分区格式和挂载点
@@ -139,7 +139,7 @@
 	}
 ```
 # 安卓刷机实战部分
-## 软件介绍(~~其实两个除了作者之外就没差~~)
+## 软件介绍(~~其实前两个除了作者之外就没差~~)
 1. DNA Android：
 	- 是由酷安`Errors`和`tao1996`大佬联合制作
 	- 支持三端操作(Android,Linux,Windows)
@@ -153,14 +153,14 @@
 	- 支持四端操作(Android,Linux,Windows,macOS)
 	- 新兴的安卓镜像重构软件，支持分区互转
 	- [作者项目直达链接](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE)
-        - [作者酷安直达](http://www.coolapk.com/u/11495164)
+  - [作者酷安直达](http://www.coolapk.com/u/11495164)
 4. TIK:
-        - 是由[`寒风居士`](https://github.com/ColdWindSchola)和`yeliqin`联合制作
-        - 老牌ROM工具，知名度不是很高， 但是非常稳定
-        - 支持四端操作(Android,Linux,Windows,macOS)
-        - 最新的版本基于MIO-KITCHEN底层
-        - [作者项目直达链接](https://github.com/ColdWindScholar/TIK)
-6. MT Manager(MT管理器):
+  - 是由[`寒风居士`](https://github.com/ColdWindSchola)和`yeliqin`联合制作
+  - 老牌ROM工具，知名度不是很高， 但是非常稳定
+  - 支持四端操作(Android,Linux,Windows,macOS)
+  - 最新的版本基于MIO-KITCHEN底层
+  - [作者项目直达链接](https://github.com/ColdWindScholar/TIK)
+5. MT Manager(MT管理器):
 	- [项目直达链接](https://mt2.cn)
 	- 老牌的Android文件管理软件，听过这个文件管理器的都上了年纪了
 	- 横向支持的安卓系统跨度大
