@@ -149,11 +149,18 @@
 	- [D.N.A项目GitLab直达链接](https://gitee.com/sharpeter/DNA)
 	- [D.N.A Android项目酷安直达链接](https://www.coolapk.com/feed/38568666?shareKey=NjUwNWJjYTQ2MTFjNjVkZDVjOWE~&shareUid=19405669&shareFrom=com.coolapk.market_14.0.2)
 3. Mio Kitchen:
-	- 是由`寒风居士`创作的软件
+	- 是由[`寒风居士`](https://github.com/ColdWindSchola)创作的软件
 	- 支持四端操作(Android,Linux,Windows,macOS)
 	- 新兴的安卓镜像重构软件，支持分区互转
 	- [作者项目直达链接](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE)
-4. MT Manager(MT管理器):
+        - [作者酷安直达](http://www.coolapk.com/u/11495164)
+4. TIK:
+        - 是由[`寒风居士`](https://github.com/ColdWindSchola)和`yeliqin`联合制作
+        - 老牌ROM工具，知名度不是很高， 但是非常稳定
+        - 支持四端操作(Android,Linux,Windows,macOS)
+        - 最新的版本基于MIO-KITCHEN底层
+        - [作者项目直达链接](https://github.com/ColdWindScholar/TIK)
+6. MT Manager(MT管理器):
 	- [项目直达链接](https://mt2.cn)
 	- 老牌的Android文件管理软件，听过这个文件管理器的都上了年纪了
 	- 横向支持的安卓系统跨度大
