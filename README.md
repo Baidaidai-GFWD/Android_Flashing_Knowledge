@@ -139,7 +139,7 @@
 	}
 ```
 # 安卓刷机实战部分
-## 软件介绍(~~其实两个除了作者之外就没差~~)
+## 软件介绍(~~其实前两个除了作者之外就没差~~)
 1. DNA Android：
 	- 是由酷安`Errors`和`tao1996`大佬联合制作
 	- 支持三端操作(Android,Linux,Windows)
@@ -152,7 +152,13 @@
 	- 是由`寒风居士`创作的软件
 	- 支持四端操作(Android,Linux,Windows,macOS)
 	- 新兴的安卓镜像重构软件，支持分区互转
+	- [寒风居士大佬酷安主页](http://www.coolapk.com/u/11495164)
 	- [作者项目直达链接](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE)
+4. TIK：
+   	- 是由`寒风居士`创作的PY脚本文件
+   	- 支持安卓全版本操作
+   	- 新兴的`安卓ROM`操作工具箱，较完善地支持erofs/VAB分区
+   	- [作者项目直达链接](https://github.com/ColdWindScholar/TIK/)
 4. MT Manager(MT管理器):
 	- [项目直达链接](https://mt2.cn)
 	- 老牌的Android文件管理软件，听过这个文件管理器的都上了年纪了
