@@ -153,13 +153,13 @@
 	- 支持四端操作(Android,Linux,Windows,macOS)
 	- 新兴的安卓镜像重构软件，支持分区互转
 	- [作者项目直达链接](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE)
-  - [作者酷安直达](http://www.coolapk.com/u/11495164)
+  	- [作者酷安直达](http://www.coolapk.com/u/11495164)
 4. TIK:
-  - 是由[`寒风居士`](https://github.com/ColdWindSchola)和`yeliqin`联合制作
-  - 老牌ROM工具，知名度不是很高， 但是非常稳定
-  - 支持四端操作(Android,Linux,Windows,macOS)
-  - 最新的版本基于MIO-KITCHEN底层
-  - [作者项目直达链接](https://github.com/ColdWindScholar/TIK)
+	- 是由[`寒风居士`](https://github.com/ColdWindSchola)和`yeliqin`联合制作
+	- 老牌ROM工具，知名度不是很高， 但是非常稳定
+	- 支持四端操作(Android,Linux,Windows,macOS)
+	- 最新的版本基于MIO-KITCHEN底层
+	- [作者项目直达链接](https://github.com/ColdWindScholar/TIK)
 5. MT Manager(MT管理器):
 	- [项目直达链接](https://mt2.cn)
 	- 老牌的Android文件管理软件，听过这个文件管理器的都上了年纪了
